@@ -1,0 +1,19 @@
+Project Members:
+    Blake McFarlane
+    Matthew Sharp
+    Rima El Brouzi 
+
+-------------------------------------------------------------------------------------------------
+STEPS TO RUN:
+
+Method 1: Using the makefile
+    a. run 'make'
+        this should make an executable named 'TradeDLL' - this step could take a few seconds
+    b. run ./TradeDLL
+        you should now be able to see the program after running the executable
+
+Method 2: Using traditional Method
+    a. run 'g++ *.cpp -Wall -std=c++17'
+        this should generate an executable named 'a' if you do not specify a name.
+    b. run ./a.exe or ./a.out
+        have fun.
